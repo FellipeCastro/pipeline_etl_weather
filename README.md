@@ -4,38 +4,9 @@
 
 ---
 
-## 📋 Índice
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Arquitetura do Pipeline](#-arquitetura-do-pipeline)
-- [Stack Tecnológica](#-stack-tecnológica)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação e Configuração](#-instalação-e-configuração)
-- [Como Executar](#-como-executar)
-- [Detalhamento das Etapas](#-detalhamento-das-etapas)
-- [Análise de Dados](#-análise-de-dados)
-- [Troubleshooting](#-troubleshooting)
-- [Contribuindo](#-contribuindo)
-
----
-
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido para o canal [**@vbluuiza**](https://youtube.com/@vbluuiza) com o objetivo de demonstrar a construção de um **pipeline ETL completo** utilizando as melhores práticas de Engenharia de Dados.
-
 O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, transforma os dados para um formato estruturado e os armazena em um banco de dados PostgreSQL para análises futuras.
-
-### 🎥 Assista no YouTube
-> 🔴 **[Assistir Tutorial Completo](https://www.youtube.com/@vbluuiza)**
-
----
-
-## 🏗️ Arquitetura do Pipeline
-
-<img src='arquitetura_de_dados_draw.png' alt='Arquitetura do Pipeline ETL'>
-
----
 
 ## 🛠️ Stack Tecnológica
 

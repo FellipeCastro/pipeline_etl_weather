@@ -27,7 +27,7 @@ url = f'https://api.openweathermap.org/data/2.5/weather?q=Sao Paulo,BR&units=met
     },
     description='Pipeline ETL - CLima SP',
     schedule='0 */1 * * * ',
-    start_date=datetime(2026, 7, 18),
+    start_date=datetime(2026, 7, 22),
     catchup=False,
     tags=['weather', 'etl']
 )

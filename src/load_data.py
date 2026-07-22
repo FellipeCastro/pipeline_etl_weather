@@ -14,8 +14,7 @@ load_dotenv(env_path)
 user = os.getenv('USER')
 password = os.getenv('PASSWORD')
 database = os.getenv('DATABASE')
-#host = 'host.docker.internal'
-host = 'localhost'
+host = 'host.docker.internal'
 
 # criando conexão com o banco de dados PostgreSQL
 def get_engine():

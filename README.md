@@ -112,7 +112,7 @@ Abra seu navegador em: **http://localhost:8080**
 
 ### 2️⃣ Ative a DAG
 
-1. Na interface do Airflow, localize a DAG chamada **`youtube_weather_pipeline`**
+1. Na interface do Airflow, localize a DAG chamada **`weather_pipeline`**
 2. Clique no botão de **Acionar/Trigger** para ativá-la
 3. A DAG está configurada para executar **a cada 1 hora**
 
